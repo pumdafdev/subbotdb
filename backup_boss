@@ -1,0 +1,182 @@
+
+bossname = 1좌도치, 1좌, 좌1
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 1층 왼쪽으로 오세요
+mungtime = 0
+
+bossname = 1우도치, 1우, 우1
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 1층 오른쪽으로 오세요
+mungtime = 0
+
+bossname = 2좌도치, 2좌, 좌2
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 2층 왼쪽으로 오세요
+mungtime = 0
+
+bossname = 2우도치, 2우, 우2
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 2층 오른쪽으로 오세요
+mungtime = 0
+
+bossname = 3좌도치, 3좌, 좌3
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 3층 왼쪽으로 오세요
+mungtime = 0
+
+bossname = 3우도치, 3우, 우3
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 3층 오른쪽으로 오세요
+mungtime = 0
+
+bossname = 4좌도치, 4좌, 좌4
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 4층 왼쪽으로 오세요
+mungtime = 0
+
+bossname = 4우도치, 4우, 우4
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 4층 오른쪽으로 오세요
+mungtime = 0
+
+bossname = 5좌도치, 5좌, 좌5
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 5층 왼쪽으로 오세요
+mungtime = 0
+
+bossname = 5우도치, 5우, 우5
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 5층 오른쪽으로 오세요
+mungtime = 0
+
+bossname = 6좌도치, 6좌, 좌6
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 6층 왼쪽으로 오세요
+mungtime = 0
+
+bossname = 6우도치, 6우, 우6
+gentime = 00:15
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 낙원 6층 오른쪽으로 오세요
+mungtime = 0
+
+bossname = 이벤트보스
+bosstime = 13:00
+genPeriod = 24:00
+startDate = 2021-11-11
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 이벤트 보스 맵으로 오세요
+
+bossname = 이벤트보스
+bosstime = 20:00
+genPeriod = 24:00
+startDate = 2021-11-11
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 이벤트 보스 맵으로 오세요
+
+bossname = 이벤트보스
+bosstime = 21:00
+genPeriod = 168:00
+startDate = 2021-11-12
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 이벤트 보스 맵으로 오세요
+
+bossname = 이벤트보스
+bosstime = 21:00
+genPeriod = 168:00
+startDate = 2021-11-13
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 이벤트 보스 맵으로 오세요
+
+bossname = 이벤트보스
+bosstime = 21:00
+genPeriod = 168:00
+startDate = 2021-11-14
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 이벤트 보스 맵으로 오세요
+
+bossname = 침식홍돈팔, 침돈팔, 심돈팔
+gentime = 10:00
+nogencheck = 0
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해룡산맥 포식자의 구릉지로 오세요
+mungtime = 0
+
+bossname = 침식대인, 침식대인면충, 침대인, 심대인
+gentime = 10:00
+nogencheck = 0
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해룡산맥 어둠숲 남부로 오세요
+mungtime = 0
+
+bossname = 몽혼
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 개척자 위령 묘지로 오세요
+mungtime = 0
+
+bossname = 해변의왕, 해변왕, 해변
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 도깨비 해변으로 오세요
+mungtime = 0
+
+bossname = 벌판위의왕, 벌판왕, 벌판
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 단풍노을 골짜기로 오세요
+mungtime = 0
+
+bossname = 흑룡
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 일성관 야영지로 오세요
+mungtime = 0
+
+bossname = 청묘
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 비옥 폭포로 오세요
+mungtime = 0
+
+bossname = 발루
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 탁회암 협곡으로 오세요
+mungtime = 0
+
+bossname = 모구오
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 솟을바위산으로 오세요
+mungtime = 0
